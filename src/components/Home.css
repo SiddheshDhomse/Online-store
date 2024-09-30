@@ -1,0 +1,25 @@
+/* Home.css */
+
+.home-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .welcome-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .welcome-message {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: #555; /* Darker grey for better readability */
+  }
+  
+  .home-image {
+    width: 100%;
+    max-width: 600px; /* Limit the maximum width */
+    height: auto;
+    border-radius: 10px;
+  }
+  
